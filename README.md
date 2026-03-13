@@ -75,7 +75,8 @@ The Power BI dashboard highlights:
 - KPI Cards (Total Revenue, Customers, Avg Order Value)  
 - Avg Revenue per Customer (Tooltip Metric)  
 
-**[Dashboard Preview]**<img width="1193" height="652" alt="dashboard" src="https://github.com/user-attachments/assets/5906b822-1418-46a7-8918-cc5928b8d8ed" />
+**[Dashboard Preview]**<img width="1050" height="574" alt="Screenshot 2026-03-12 at 10 02 21 PM" src="https://github.com/user-attachments/assets/f769d08d-952d-4bb9-8ae9-0847fee12542" />
+
 
 
 
